@@ -33,7 +33,7 @@ $_SESSION['form_data'] = $_POST;
 <body>
     <div class="container">
         <div class="bill">
-            <h1 class="title">YOUR BILL</h1>
+            <h1 class="title">YOUR  desBILL</h1>
             <div class="showroom-name"><span>BCA</span><span>GADDIWALA</span></div>
             <table>
                 <tr>
